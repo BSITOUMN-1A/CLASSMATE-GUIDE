@@ -47,12 +47,11 @@ git config --global user.email "the-email-you-used-on-github@example.com"
 
 > ⚠️ **Only ONE person per group** (the group leader) does this step. Everyone else skips to Step 3.
 
-1. Go to `https://github.com/<ORG-NAME>`.
+1. Go to `https://github.com/BSITOUMN-1A`.
 2. Click the **Repositories** tab → **New repository** (green button).
 3. Fill in the form:
-   - **Owner:** `<ORG-NAME>` (make sure it's the organization, *not* your personal account)
-   - **Repository name:** use this format → `group-<number>-<project-name>`
-     Example: `group-3-inventory-system`
+   - **Repository name:** use this format → `group-<number>`
+     Example: `group-1`
    - **Description:** short summary of your project
    - **Visibility:** choose what the instructor asked for (Private is recommended)
    - ✅ Check **Add a README file**
@@ -77,7 +76,7 @@ Every member (including the leader) does this **once**.
 ### Option A: Using VS Code (easiest)
 
 1. Open the repository page on GitHub and click the green **Code** button.
-2. Copy the **HTTPS** URL, e.g. `https://github.com/<ORG-NAME>/group-3-inventory-system.git`
+2. Copy the **HTTPS** URL, e.g. `https://github.com/BSITOUMN-1A/group-3-inventory-system.git`
 3. Open **VS Code**.
 4. Press `Ctrl + Shift + P` (Mac: `Cmd + Shift + P`) to open the Command Palette.
 5. Type **Git: Clone** and press Enter.
@@ -90,7 +89,7 @@ Every member (including the leader) does this **once**.
 
 ```bash
 cd path/to/your/projects-folder
-git clone https://github.com/<ORG-NAME>/group-3-inventory-system.git
+git clone https://github.com/BSITOUMN-1A/group-3-inventory-system.git
 cd group-3-inventory-system
 code .
 ```
@@ -295,4 +294,4 @@ Don't panic! Message your group or instructor **before** pushing again. For file
 - Then post in our **section group chat**.
 - Still stuck? Contact the **organization owner / instructor**.
 
-Happy coding! 🚀
+Happy coding! 🚀 - Hadestia
