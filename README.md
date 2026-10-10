@@ -1,4 +1,4 @@
-# 📚 Section GitHub Organization — Group Repository Guide
+# 📚BSITOUMN 1-A — Group Repository Guide
 
 Welcome! This organization is where every **group** in our section keeps its project code. Each group gets **its own repository** here. This guide shows you, step by step, how to:
 
